@@ -38,7 +38,7 @@ Este proyecto forma parte del **Challenge de Principiante en Programación del p
 
 ## Enlace
 
-[Live Site aquí]() 👈
+[Live Site aquí](https://mendezpvi.github.io/g8-secret-santa-challenge/) 👈
 
 ## Conceptos aprendidos
 
